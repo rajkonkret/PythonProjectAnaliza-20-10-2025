@@ -1,0 +1,7 @@
+order_id,customer_id,product,category,price,quantity,score,country,order_date
+1001,C01,Laptop,Electronics,3500.0,1,95.0,Poland,2024-03-01
+1002,C02,Mouse,Accessories,120.0,2,,Germany,2024-03-03
+1003,C03,Smartphone,Electronics,,1,80.0,Poland,2024-03-07
+1004,C04,Headphones,Accessories,450.0,1,89.0,France,2024-03-08
+1005,C01,Monitor,Electronics,999.0,2,30.0,Poland,2024-03-10
+1006,C05,Power Bank,Accessories,85.0,3,92.0,Czechia,2024-03-12
