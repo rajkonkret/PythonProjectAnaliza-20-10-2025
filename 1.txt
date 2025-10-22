@@ -5,3 +5,13 @@ headers = {
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
                   "Chrome/119.0 Safari/537.36"
 }
+
+from sklearn.preprocessing import StandardScaler     
+from sklearn.decomposition import PCA                
+from sklearn.cluster import KMeans, AgglomerativeClustering 
+from sklearn.metrics import silhouette_score         
+from sklearn.manifold import TSNE                     
+from sklearn.linear_model import LinearRegression, Ridge, Lasso  
+from sklearn.pipeline import Pipeline                
+from sklearn.model_selection import train_test_split, cross_val_score  # podziały i walidacja
+from sklearn.datasets import load_wine, load_diabetes 
